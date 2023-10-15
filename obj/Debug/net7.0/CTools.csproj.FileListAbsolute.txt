@@ -1,0 +1,11 @@
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\bin\Debug\net7.0\CTools.deps.json
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\bin\Debug\net7.0\CTools.dll
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\bin\Debug\net7.0\CTools.pdb
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\CTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\CTools.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\CTools.AssemblyInfo.cs
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\CTools.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\CTools.dll
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\refint\CTools.dll
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\CTools.pdb
+C:\Users\rafae\Desktop\Algoritmos\C#\Libraries\CTools\obj\Debug\net7.0\ref\CTools.dll
